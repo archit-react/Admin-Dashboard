@@ -1,4 +1,4 @@
-# PulseBoardX – Modern Admin Dashboard
+# PulseBoardX – Modern Admin Dashboard (Unit Tested)
 
 **PulseBoardX** is a sleek, responsive admin dashboard built with **React**, **TypeScript**, and **Tailwind CSS**, featuring a clean layout, animated UI, dark/light mode toggle, route-based navigation, and accessibility-first components.
 

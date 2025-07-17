@@ -2,7 +2,7 @@
 
 **PulseBoardX** is a sleek, responsive admin dashboard built with **React**, **TypeScript**, and **Tailwind CSS**, featuring a clean layout, animated UI, dark/light mode toggle, route-based navigation, and accessibility-first components.
 
-> 🔗 **[Live Demo (Vercel)](https://pulseboardx.vercel.app)**
+> 🔗 **[Live Demo (Vercel)](https://admin-dashboard-green-nine.vercel.app/)**
 
 ---
 

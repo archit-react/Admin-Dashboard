@@ -2,14 +2,14 @@
 
 **PulseBoardX** is a sleek, responsive admin dashboard built with **React**, **TypeScript**, and **Tailwind CSS**, featuring a clean layout, animated UI, dark/light mode toggle, route-based navigation, and accessibility-first components.
 
-> 🔗 **[Live Demo (Vercel)](https://admin-dashboard-green-nine.vercel.app/)**
+> **[Live Demo (Vercel)](https://admin-dashboard-green-nine.vercel.app/)**
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
-admin-dashboard/
+Admin-Dashboard/
 ├── public/
 ├── src/
 │   ├── assets/              # Static images and icons
@@ -41,18 +41,18 @@ admin-dashboard/
 
 ---
 
-## ✅ What We Built
+## Implementations
 
-- ⚡ React + TypeScript + Tailwind CSS stack
-- 🌓 Dark/Light mode toggle using system preference and localStorage
-- 🧭 Sidebar navigation with active route highlighting
-- 🧪 Unit tests using Vitest and React Testing Library
-- 🎨 Modern UI design with animations via Framer Motion
-- 📱 Fully responsive layout
+- React + TypeScript + Tailwind CSS stack
+- Dark/Light mode toggle using system preference and localStorage
+- Sidebar navigation with active route highlighting
+- Unit tests using Vitest and React Testing Library
+- Modern UI design with animations via Framer Motion
+- Fully responsive layout
 
 ---
 
-## 🧩 Challenges Faced
+## Challenges Faced
 
 - **matchMedia error in tests**: Mocked `window.matchMedia` in test setup to fix JSDOM limitation.
 - **Theme toggle persistence**: Used localStorage with `useEffect` to retain user preference.
@@ -60,7 +60,7 @@ admin-dashboard/
 
 ---
 
-## ✨ Out-of-Plan Features Added
+## Out-of-Plan Features Added
 
 - Framer Motion for smooth content transitions
 - Sidebar UI refinements with active link styling
@@ -69,7 +69,7 @@ admin-dashboard/
 
 ---
 
-## 🔮 Future Enhancements
+## Future Enhancements
 
 - Firebase integration (auth + Firestore)
 - Add/Edit/Delete users modal
@@ -79,7 +79,7 @@ admin-dashboard/
 
 ---
 
-## 🧪 Running Locally
+## Running Locally
 
 ```bash
 # Install dependencies

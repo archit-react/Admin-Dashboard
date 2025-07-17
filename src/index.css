@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 0 0% 100%;
+  --foreground: 0 0% 10%;
+  --primary: 240 100% 60%;
+  --muted: 240 5% 94%;
+}
+
+.dark {
+  --background: 240 10% 3%;
+  --foreground: 0 0% 100%;
+  --primary: 265 94% 66%;
+  --muted: 240 5% 18%;
+}
+
+body {
+  @apply bg-background text-foreground font-sans;
+}
